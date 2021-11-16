@@ -1,0 +1,17 @@
+{
+  "name": "Alireza Sarabchi",
+  "bio": "Front-End Developer",
+  "avatar": "https://github.com/alirezas.png",
+  "links": [
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/alirezas",
+      "icon": "github"
+    },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/_alirezas",
+      "icon": "twitter"
+    }
+  ]
+}
